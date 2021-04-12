@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Peisheng YE</string>
+    <string name="yellow_star">Yellow</string>
+    <string name="bio">Hi, my name is Peisheng YE
+    This small,
+        \n\n yet powerful,
+        \n\n feature allows boilerplate code to be reduced,
+        \n\ncode made more readable, and the use of mutable variables avoided.
+        \n\nThe typical use case of declaring a variable outside of
+        \n\nan if statement to then initialize it inside either branch can be avoided completely:
+        \n\nfeature allows boilerplate code to be reduced,
+        \n\ncode made more readable, and the use of mutable variables avoided.
+        \n\nThe typical use case of declaring a variable outside of
+        \n\nan if statement to then initialize it inside either branch can be avoided completely:
+        \n\nfeature allows boilerplate code to be reduced,
+        \n\ncode made more readable, and the use of mutable variables avoided.
+        \n\nThe typical use case of declaring a variable outside of
+        \n\nan if statement to then initialize it inside either branch can be avoided completely:
+        \n\nfeature allows boilerplate code to be reduced,
+        \n\ncode made more readable, and the use of mutable variables avoided.
+        \n\nThe typical use case of declaring a variable outside of
+        \n\nan if statement to then initialize it inside either branch can be avoided completely:
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+</resources>
